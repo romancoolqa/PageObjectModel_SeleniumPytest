@@ -1,0 +1,1 @@
+Реализация паттерна Page Object на Python + pytest по материалам статьи на [Хабр](https://habr.com/ru/post/472156/).
