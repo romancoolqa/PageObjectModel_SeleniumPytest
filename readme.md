@@ -13,7 +13,7 @@ pip install -r requirements.txt
 3) Запуск тестов: <BR>
 ```python -m pytest -v --driver Chrome --driver-path <chromedriver_directory>/<chromedriver_file> ~/chrome tests/*```<br> 
 <br>Примеры запуска:<br>
-```python -m pytest -v --driver Chrome --driver-path D:/chromedriver_win32/chromedriver.exe tests/test_auth_page.pyy```
+```python -m pytest -v --driver Chrome --driver-path D:/chromedriver_win32/chromedriver.exe tests/test_auth_page.py```
 ---
 ☝️ Пароли спрятаны в файл .env (не выложен здесь). <BR>
 Создать в директории проекта файл .env, в него записать: <BR> 
